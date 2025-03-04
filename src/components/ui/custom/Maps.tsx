@@ -68,6 +68,7 @@ export default function Maps() {
         width="9999"
         height="420"
         className="mt-12"
+        title="lokace"
       ></iframe>
     </>
   );
