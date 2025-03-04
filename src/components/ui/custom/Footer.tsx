@@ -7,27 +7,27 @@ export default function Footer() {
             <div className="flex gap-16">
               <ul className="flex flex-col gap-4">
                 <li>
-                  <a>
+                  <a href="/">
                     <b>DOMŮ</b>
                   </a>
                 </li>
                 <li>
-                  <a>
+                  <a href="#about">
                     <b>O NÁS</b>
                   </a>
                 </li>
                 <li>
-                  <a>
+                  <a href="#games">
                     <b>HRY</b>
                   </a>
                 </li>
                 <li>
-                  <a>
+                  <a href="#services">
                     <b>SLUŽBY</b>
                   </a>
                 </li>
                 <li>
-                  <a>
+                  <a href="#membership">
                     <b>ČLENSTVÍ</b>
                   </a>
                 </li>
@@ -35,12 +35,12 @@ export default function Footer() {
 
               <ul className="flex flex-col gap-4">
                 <li>
-                  <a>
+                  <a href="#map">
                     <b>MAPA</b>
                   </a>
                 </li>
                 <li>
-                  <a>
+                  <a href="#history">
                     <b>HISTORIE</b>
                   </a>
                 </li>
